@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+
+header {
+    background-image: url(bussineswoman.jpg);
+    height: 300px;
+    background-size: cover;
+    background-position: 100PX;
+    background-position: top;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+ul {
+    float: right;
+    list-style-type: none;
+    margin-top: 25px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid #fff;
+    transition: 0.6s ease;
+}
+
+ul li a:hover {
+    background-color: whitesmoke;
+    color: black;
+}
+
+.logo img {
+    float: left;
+    width: 70px;
+    height: auto;
+}
+
+.main {
+    max-width: 1200px;
+    margin: auto;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 70px;
+    padding-left: 180px;
+    color: snow;
+    padding: 120px;
+}
+
+.p1 {
+    background-color: gainsboro;
+    margin: 200px;
+    line-height: 100px;
+    padding: 20px;
+    font-size: 25px;
+    margin: 10px
+}
+
+.slikalaptopa {
+    float: left;
+    
+}
+
+.laptop1 {
+    font-size: 30px;
+    padding-top: 70px;
+    
+}
+#Hire {
+    padding-left: 40px;
+
+}
+    
+.fix {
+    clear: both;
+    
+}
+.page2 {
+    padding-left: 600px;
+    font-size: 30px;
+    display: inline-block;
+    margin-bottom: 50px;
+    
+    
+   
+}
+
+.page3 {
+    
+     padding-left: 50px;
+    font-size: 30px;
+    
+}
+
+.page4 {
+    padding-left: 50px;
+    font-size: 30px;
+    
+}
+
+.page5 {
+     padding-left: 50px;
+    font-size: 30px;
+    
+    
+}
